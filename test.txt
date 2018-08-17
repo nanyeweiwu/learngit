@@ -2,3 +2,4 @@ This is a file for learn git.
 添加一行中文（为了试试Notepad是不是真的是utf-8）
 add one line again ,to test git diff
 .........
+aaaaaaaaa
